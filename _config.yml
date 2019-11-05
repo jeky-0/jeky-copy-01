@@ -11,11 +11,8 @@ header:
   has_nav: true
   has_social: true
 footer:
-  content: '&copy; All rights reserved.'
+  content: '&copy; All rights swerved.'
   links:
-    - text: Made with Stackbit
-      url: 'https://www.stackbit.com'
-      new_window: true
     - text: Generated from DEV
       url: 'https://dev.to/connecting-with-stackbit'
       new_window: true
